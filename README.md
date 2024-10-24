@@ -1,3 +1,4 @@
 # R_testes
-Treinando os comandos git utilizando R
-EEEEEEEEEEEEEEEEEEEEE
+Uma forma de aprender programação ao mesmo tempo que aprendo git  github. Subindo exercicios, desafios e 
+projetos. Assim também criando um registro do meu histórico de aprendizagem.
+
