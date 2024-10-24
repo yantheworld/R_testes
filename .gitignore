@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+# Ignorar arquivos temporários do R
+*.Rhistory
+*.Rdata
+
+# Ignorar diretórios específicos
+/data
+/output
